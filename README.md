@@ -79,7 +79,7 @@ Open IRB from your terminal by typing `irb`.
 
 > You'll know you're in your IRB session because your prompt will change and you'll be able to execute arbitrary ruby (type `1+1` into your IRB session. If you see `2`, you're good, if you see any kind of error, especially mentioning `bash`, you're still in your BASH terminal session, type in `irb`).
 
-Copy the contents of `lib/display_board.rb` to your IRB session.
+Copy the contents of `display_board.rb` lib/to your IRB session.
 
 ```
 // ♥ irb
